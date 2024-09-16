@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(83, 188, 200);
+    background-color: rgb(242, 94, 163);
 }
 p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Georgia', Times, serif;
 }
-<a: hover{
+a:hover{
     background-color: pink;
 }
